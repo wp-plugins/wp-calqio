@@ -4,11 +4,15 @@ Donate link: http://www.icontrolwp.com/
 Tags: calq.io, analytics, tracking
 Requires at least: 3.5.0
 Tested up to: 4.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 == Description ==
 
 Easily integrate Calq.io Analytics into your WordPress website.
+
+Calq.io is an analytics service for tracking visitors and much more on your websites and your Apps.
+
+This plugin offers a simple interface to adding the necessary Calq.io Javascript to your front-end pages, and a few options for tweaking the Javascript.
 
 == Frequently Asked Questions ==
 
@@ -46,13 +50,13 @@ It is not a support forum, please use the WordPress.org support forums for plugi
 
 == Changelog ==
 
-= 1.0 =
+= 1.0 Series =
 *Released: 26th February, 2015*
 
-FEATURE:        Ability to automatically insert the necessary Javascript snippet for the Calq.io service into your web pages
-FEATURE:        Automatic verification of your Calq.io tracking keys upon saving.
-FEATURE:        Ability to ignore logged-in users.
-FEATURE:        Ability to customize the cookie domain.
-FEATURE:        For logged in users (assuming you aren't ignoring them) will populate with basic WordPress user data such as email etc.
+*   FEATURE:        Ability to automatically insert the necessary Javascript snippet for the Calq.io service into your web pages
+*   FEATURE:        Automatic verification of your Calq.io tracking keys upon saving.
+*   FEATURE:        Ability to ignore logged-in users.
+*   FEATURE:        Ability to customize the cookie domain.
+*   FEATURE:        For logged in users (assuming you aren't ignoring them) will populate with basic WordPress user data such as email etc.
 
 == Upgrade Notice ==

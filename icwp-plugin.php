@@ -3,7 +3,7 @@
 Plugin Name: Calq.io For WordPress
 Plugin URI: http://icwp.io/home
 Description: Easily Integrate Calq.io Analytics Into Your WordPress Sites
-Version: 1.0.0
+Version: 1.0.1
 Text Domain: wp-calqio
 Author: iControlWP
 Author URI: http://www.icontrolwp.com/
